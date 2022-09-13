@@ -8,3 +8,7 @@ SELECT *
 FROM persons
 WHERE age > 27
 ORDER BY age DESC;
+
+
+--Удаление таблицы
+-- DROP TABLE persons;

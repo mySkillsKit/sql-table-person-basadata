@@ -9,3 +9,4 @@ SELECT name,
 FROM persons
 WHERE city_of_living LIKE 'MOSCOW';
 --WHERE city_of_living = 'MOSCOW';
+
